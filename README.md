@@ -1,6 +1,9 @@
 # Worknoon WordPress Assessment
 
 ## 🔗 Live Demo
+Demo Video:
+https://drive.google.com/file/d/1nF42CnDjJtXYIxN5fkyvkREeg3qYd40m/view?usp=sharing
+
 Frontend deployed here:  
 https://apowertech.com.ng/
 
