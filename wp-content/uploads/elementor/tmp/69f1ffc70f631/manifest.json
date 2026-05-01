@@ -1,0 +1,1262 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Seolla - SEO & Digital Marketing Agency Elementor Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/elementor.nathatype.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact Form",
+            "screenshot": "screenshots\/metform-contact-form.jpg",
+            "source": "templates\/metform-contact-form.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/metform-contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Career",
+            "screenshot": "screenshots\/career.jpg",
+            "source": "templates\/career.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/career\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Services",
+            "screenshot": "screenshots\/our-services.jpg",
+            "source": "templates\/our-services.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/our-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing List",
+            "screenshot": "screenshots\/pricing-list.jpg",
+            "source": "templates\/pricing-list.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/pricing-list\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project Detail",
+            "screenshot": "screenshots\/project-detail.jpg",
+            "source": "templates\/project-detail.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/project-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/elementor.nathatype.com\/seolla\/template-kit\/error-404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.3.3",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Gum Elementor Addon",
+            "version": "1.3.9",
+            "file": "gum-elementor-addon\/gum-elementor-addon.php",
+            "author": "TemeGUM"
+        },
+        {
+            "name": "Ultimate Addons for Elementor - Lite",
+            "version": "2.0.3",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.9.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.25.11",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo_white.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2024\/11\/logo_white-800x237.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 21719,
+            "dimensions": [
+                998,
+                296
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "man-in-city-with-laptop-business-at-night-2023-11-27-04-54-11-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/man-in-city-with-laptop-business-at-night-2023-11-27-04-54-11-utc-800x988.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 117124,
+            "dimensions": [
+                1200,
+                1482
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/man-in-city-with-laptop-business-at-night-66GF6BC"
+        },
+        {
+            "filename": "happy-business-people-celebrating-success-at-compa-2023-11-27-05-10-23-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2017\/06\/happy-business-people-celebrating-success-at-compa-2023-11-27-05-10-23-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 115505,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/happy-business-people-celebrating-success-at-compa-X3WHJMG"
+        },
+        {
+            "filename": "teamwork-gives-rise-to-great-ideas-2023-11-27-05-30-32-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/teamwork-gives-rise-to-great-ideas-2023-11-27-05-30-32-utc-800x422.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 145253,
+            "dimensions": [
+                1517,
+                800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/teamwork-gives-rise-to-great-ideas-K9LZFBP"
+        },
+        {
+            "filename": "portrait-of-an-asian-businessman-which-is-a-new-ge-2023-11-27-05-32-21-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/portrait-of-an-asian-businessman-which-is-a-new-ge-2023-11-27-05-32-21-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 68543,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-an-asian-businessman-which-is-a-new-ge-RGAU7TR"
+        },
+        {
+            "filename": "cover_style.jpeg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/cover_style-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 79987,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "global_styles.jpeg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/global_styles-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 111255,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "new_global_styles.jpeg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/new_global_styles-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 180957,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "global_styles-1.jpeg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/global_styles-1-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 108603,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-2022-10-07-02-51-29-utc_3.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/collage-of-smiling-and-happy-multiethnic-people-2022-10-07-02-51-29-utc_3-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                }
+            ],
+            "filesize": 86196,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-2022-10-07-02-51-29-utc_2.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/collage-of-smiling-and-happy-multiethnic-people-2022-10-07-02-51-29-utc_2-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                }
+            ],
+            "filesize": 56668,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-2022-10-07-02-51-29-utc_6.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/collage-of-smiling-and-happy-multiethnic-people-2022-10-07-02-51-29-utc_6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                }
+            ],
+            "filesize": 94567,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-2022-10-07-02-51-29-utc_11.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/collage-of-smiling-and-happy-multiethnic-people-2022-10-07-02-51-29-utc_11-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                }
+            ],
+            "filesize": 97573,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-2022-10-07-02-51-29-utc_13.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/collage-of-smiling-and-happy-multiethnic-people-2022-10-07-02-51-29-utc_13-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                }
+            ],
+            "filesize": 125401,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR"
+        },
+        {
+            "filename": "business-meeting-2024-10-18-05-07-04-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2017\/06\/business-meeting-2024-10-18-05-07-04-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 101372,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/business-meeting-9MJDZYY"
+        },
+        {
+            "filename": "grafik_ilustration.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/grafik_ilustration-800x378.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 19999,
+            "dimensions": [
+                1000,
+                473
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/instagram-statistic-dashboard-NWEB2QW"
+        },
+        {
+            "filename": "smiling-businessman-in-eyeglasses-holding-digital-2024-11-07-15-09-40-utc_isolated.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/smiling-businessman-in-eyeglasses-holding-digital-2024-11-07-15-09-40-utc_isolated.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 160075,
+            "dimensions": [
+                641,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-businessman-in-eyeglasses-holding-digital--C638S4D"
+        },
+        {
+            "filename": "happy-old-professional-business-man-holding-phone-2023-11-27-05-12-40-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/happy-old-professional-business-man-holding-phone-2023-11-27-05-12-40-utc-800x975.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 130569,
+            "dimensions": [
+                985,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/happy-old-professional-business-man-holding-phone--TYFBW6P"
+        },
+        {
+            "filename": "corporate-businessmen-businesswomen-partner-team-2023-11-27-05-17-47-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/corporate-businessmen-businesswomen-partner-team-2023-11-27-05-17-47-utc-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 116395,
+            "dimensions": [
+                1200,
+                798
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/corporate-businessmen-businesswomen-partner-team-c-2VJ3QP6"
+        },
+        {
+            "filename": "portrait-of-successful-business-man-2021-08-29-15-15-45-utc.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2024\/12\/portrait-of-successful-business-man-2021-08-29-15-15-45-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 117387,
+            "dimensions": [
+                600,
+                738
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-successful-business-man-FFRKJMX"
+        },
+        {
+            "filename": "asian-businessman-portrait-2022-12-15-21-13-54-utc.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2024\/12\/asian-businessman-portrait-2022-12-15-21-13-54-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 173013,
+            "dimensions": [
+                600,
+                738
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/asian-businessman-portrait-44VL98U"
+        },
+        {
+            "filename": "asian-businessman-2022-12-15-20-42-14-utc.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2024\/12\/asian-businessman-2022-12-15-20-42-14-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 103556,
+            "dimensions": [
+                600,
+                738
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/asian-businessman-S48N2L8"
+        },
+        {
+            "filename": "asian-businessman-portrait-2022-12-15-22-41-43-utc.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2024\/12\/asian-businessman-portrait-2022-12-15-22-41-43-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 150085,
+            "dimensions": [
+                600,
+                738
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/asian-businessman-portrait-474BHX7"
+        },
+        {
+            "filename": "logo_grey_1.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/logo_grey_1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 5885,
+            "dimensions": [
+                360,
+                160
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logo_grey_2.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/logo_grey_2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 6446,
+            "dimensions": [
+                360,
+                160
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logo_grey_3.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/logo_grey_3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 4560,
+            "dimensions": [
+                360,
+                160
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logo_grey_4.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/logo_grey_4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 6106,
+            "dimensions": [
+                360,
+                160
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logo_grey_5.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/logo_grey_5.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4169,
+            "dimensions": [
+                360,
+                160
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logo_grey_6.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/logo_grey_6.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4422,
+            "dimensions": [
+                360,
+                160
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logo_grey_7.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/logo_grey_7.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4672,
+            "dimensions": [
+                360,
+                160
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logo_grey_8.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/logo_grey_8.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3527,
+            "dimensions": [
+                360,
+                160
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "corporate-businessmen-businesswomen-partner-team-2023-11-27-05-17-47-utc_left.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/corporate-businessmen-businesswomen-partner-team-2023-11-27-05-17-47-utc_left.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 101591,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/corporate-businessmen-businesswomen-partner-team-c-2VJ3QP6"
+        },
+        {
+            "filename": "corporate-businessmen-businesswomen-partner-team-2023-11-27-05-17-47-utc_right.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/corporate-businessmen-businesswomen-partner-team-2023-11-27-05-17-47-utc_right.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 140513,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/corporate-businessmen-businesswomen-partner-team-c-2VJ3QP6"
+        },
+        {
+            "filename": "wavw_accent.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/wavw_accent-800x211.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 85996,
+            "dimensions": [
+                5760,
+                1516
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "gambar_kumpul_isolated.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/gambar_kumpul_isolated-800x507.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 230393,
+            "dimensions": [
+                900,
+                570
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/go-teamwork-PG64PEG"
+        },
+        {
+            "filename": "business-concept-portrait-handsome-business-man-2022-12-16-06-02-20-utc.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2024\/12\/business-concept-portrait-handsome-business-man-2022-12-16-06-02-20-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 77170,
+            "dimensions": [
+                600,
+                738
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/business-concept-portrait-handsome-business-man-co-YV9ABZR"
+        },
+        {
+            "filename": "asian-young-businessman-2022-12-15-21-46-07-utc.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2024\/12\/asian-young-businessman-2022-12-15-21-46-07-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 116945,
+            "dimensions": [
+                600,
+                738
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/asian-young-businessman-K5F7KLZ"
+        },
+        {
+            "filename": "young-businessman-2022-12-15-21-28-48-utc.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2024\/12\/young-businessman-2022-12-15-21-28-48-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 107115,
+            "dimensions": [
+                600,
+                738
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/young-businessman-D97AL6E"
+        },
+        {
+            "filename": "placeit-portrait-handsome-businessman-holding-ha-2022-12-16-05-56-39-utc.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2024\/12\/placeit-portrait-handsome-businessman-holding-ha-2022-12-16-05-56-39-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 124243,
+            "dimensions": [
+                600,
+                738
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/placeit-portrait-handsome-businessman-holding-hand-4PYLLXJ"
+        },
+        {
+            "filename": "business-meeting-in-lobby-2021-08-29-13-51-27-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2017\/06\/business-meeting-in-lobby-2021-08-29-13-51-27-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 145449,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-discussing-ideas-8MX23HE"
+        },
+        {
+            "filename": "seo-inscription-2023-11-27-05-23-35-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2017\/06\/seo-inscription-2023-11-27-05-23-35-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 76742,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/seo-inscription-TQ9GS9U"
+        },
+        {
+            "filename": "transparent.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2024\/11\/transparent.png",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 1157,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        },
+        {
+            "filename": "businessman-doing-a-presentation-in-a-meeting-with-2023-11-27-05-30-15-utc.jpg",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/businessman-doing-a-presentation-in-a-meeting-with-2023-11-27-05-30-15-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 92033,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/businessman-doing-a-presentation-in-a-meeting-with-R9WYKSL"
+        },
+        {
+            "filename": "seo_graph.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2024\/11\/seo_graph-800x433.png",
+            "templates": [
+                {
+                    "source": "templates\/project-detail.json",
+                    "name": "Project Detail"
+                }
+            ],
+            "filesize": 32100,
+            "dimensions": [
+                1773,
+                960
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/instagram-statistic-dashboard-NWEB2QW"
+        },
+        {
+            "filename": "404.png",
+            "thumbnail_url": "https:\/\/elementor.nathatype.com\/seolla\/wp-content\/uploads\/sites\/12\/2022\/06\/404.png",
+            "templates": [
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 7448,
+            "dimensions": [
+                672,
+                281
+            ],
+            "image_source": "self_created",
+            "image_urls": "#"
+        }
+    ]
+}
